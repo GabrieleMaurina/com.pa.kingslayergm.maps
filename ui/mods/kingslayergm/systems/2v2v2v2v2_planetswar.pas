@@ -1,5 +1,5 @@
 {
-    "name": "2v2v2v2v2 Planets War",
+    "name": "2v2v2v2v2 PlanetsWar",
     "planets": [
         {
             "name": "Luthien",

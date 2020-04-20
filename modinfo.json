@@ -17,7 +17,8 @@
         "coui://ui/mods/kingslayergm/maps.js"
     ],
     "searchable": [
-        "king",
+		"king",
+		"kings",
         "kingslayergm",
         "map",
         "pack",
