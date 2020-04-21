@@ -1,5 +1,8 @@
 {
     "name": "2v2v2v2 or 4v4 or 8 FFA BigXes",
+    "creator": "KingSlayerGM",
+    "version": "1",
+    "description" : "Metal planet pretty open, perfect for 2 teams.",
     "planets": [
         {
             "name": "Wudgeria",

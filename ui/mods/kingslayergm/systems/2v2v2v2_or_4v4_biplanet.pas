@@ -1,5 +1,8 @@
 {
     "name": "2v2v2v2 or 4v4 Biplanet",
+    "creator": "KingSlayerGM",
+    "version": "1",
+    "description" : "2 planet system, good for mix between planetary and interplanetary war, perfect for 2 teams.",
     "planets": [
         {
             "name": "Samsonite",

@@ -1,5 +1,8 @@
 {
     "name": "2v2v2v2 or 4v4 or 8 FFA Temples",
+    "creator": "KingSlayerGM",
+    "version": "1",
+    "description" : "Awesome metal planet with relict temples, perfect for 4 teams of 2, or 8 ffa.",
     "planets": [
         {
             "name": "Arcindrus",

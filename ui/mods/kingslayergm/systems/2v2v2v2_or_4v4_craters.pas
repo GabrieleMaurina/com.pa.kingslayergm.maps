@@ -1,5 +1,8 @@
 {
     "name": "2v2v2v2 or 4v4 Craters",
+    "creator": "KingSlayerGM",
+    "version": "1",
+    "description" : "Moon planet, fairly open, perfect for 4 teams.",
     "planets": [
         {
             "name": "GornostaevX1",

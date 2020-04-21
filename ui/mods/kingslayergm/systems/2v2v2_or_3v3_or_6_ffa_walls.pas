@@ -1,5 +1,8 @@
 {
     "name": "2v2v2 or 3v3 or 6 FFA Walls",
+    "creator": "KingSlayerGM",
+    "version": "1",
+    "description" : "Symmetric planet with interesting walls separating the players, perfect for 6 ffa.",
     "planets": [
         {
             "name": "Risa",

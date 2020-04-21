@@ -1,5 +1,8 @@
 {
     "name": "2v2v2v2v2 PlanetsWar",
+    "creator": "KingSlayerGM",
+    "version": "1",
+    "description" : "5 planets system for interplanetary war, perfect for 5 teams of 2.",
     "planets": [
         {
             "name": "Luthien",

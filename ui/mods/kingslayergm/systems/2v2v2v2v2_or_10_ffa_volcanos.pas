@@ -1,5 +1,8 @@
 {
     "name": "2v2v2v2v2 or 10 FFA Volcanos",
+    "creator": "KingSlayerGM",
+    "version": "1",
+    "description" : "Lava planet with big volcanos, fairly open, perfect for 5 teams.",
     "planets": [
         {
             "name": "Isaacus IV",

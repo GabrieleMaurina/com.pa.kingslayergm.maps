@@ -1,5 +1,8 @@
 {
     "name": "1v1 or 2v2 or 3v3 or 4v4 or 5v5 DesertRocks",
+    "creator": "KingSlayerGM",
+    "version": "1",
+    "description" : "Desert and rocky planet with lots of choke points, perfect for 2 teams.",
     "planets": [
         {
             "name": "Hironomow",

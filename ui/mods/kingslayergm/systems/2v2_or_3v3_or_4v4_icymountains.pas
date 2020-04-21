@@ -1,5 +1,8 @@
 {
     "name": "2v2 or 3v3 or 4v4 IcyMountains",
+    "creator": "KingSlayerGM",
+    "version": "1",
+    "description" : "Icy and rocky planet with lots of choke points, perfect for 2 teams.",
     "planets": [
         {
             "name": "Motoko",

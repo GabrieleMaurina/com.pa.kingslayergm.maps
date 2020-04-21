@@ -1,5 +1,8 @@
 {
     "name": "2v2v2v2 or 4v4 or 8 FFA or 14 FFA Holes",
+    "creator": "KingSlayerGM",
+    "version": "1",
+    "description" : "Moon planet with giant craters, very open, perfect for ffa.",
     "planets": [
         {
             "name": "Planet Terribilis",

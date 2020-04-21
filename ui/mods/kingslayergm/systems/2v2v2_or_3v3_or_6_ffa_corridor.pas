@@ -1,5 +1,8 @@
 {
     "name": "2v2v2 or 3v3 or 6 FFA Corridor",
+    "creator": "KingSlayerGM",
+    "version": "1",
+    "description" : "Very long corridor spanning over the entire planet with lots of choke points, perfect for 6ffa.",
     "planets": [
         {
             "name": "Scandisia",
