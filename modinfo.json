@@ -30,6 +30,7 @@
     ],
     "dependencies": [
         "com.pa.conundrum.cShareSystems",
-        "com.pa.grandhomie.simplebiomes.server"
+        "com.pa.grandhomie.simplebiomes.server",
+        "com.pa.grandhomie.simplebiomes.client"
     ]
 }
