@@ -1,5 +1,5 @@
 {
-    "name": "2v2v2 or 3v3 or 6 FFA Volcanos",
+    "name": "2v2v2 or 3v3 or 6 FFA FieryCracks",
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Flat symmetric planet with lots of choke points, perfect for 6 ffa.",

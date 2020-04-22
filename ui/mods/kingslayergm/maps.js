@@ -5,7 +5,7 @@ cShareSystems.load_pas("King's Map Pack", [
     "coui://ui/mods/kingslayergm/systems/2v2_or_3v3_or_4v4_icymountains.pas",
     "coui://ui/mods/kingslayergm/systems/2v2_or_3v3_or_4v4_junglewar.pas",
     "coui://ui/mods/kingslayergm/systems/2v2v2_or_3v3_or_6_ffa_corridor.pas",
-    "coui://ui/mods/kingslayergm/systems/2v2v2_or_3v3_or_6_ffa_volcanos.pas",
+    "coui://ui/mods/kingslayergm/systems/2v2v2_or_3v3_or_6_ffa_fierycracks.pas",
     "coui://ui/mods/kingslayergm/systems/2v2v2_or_3v3_or_6_ffa_walls.pas",
     "coui://ui/mods/kingslayergm/systems/2v2v2v2_or_4v4_biplanet.pas",
     "coui://ui/mods/kingslayergm/systems/2v2v2v2_or_4v4_craters.pas",
