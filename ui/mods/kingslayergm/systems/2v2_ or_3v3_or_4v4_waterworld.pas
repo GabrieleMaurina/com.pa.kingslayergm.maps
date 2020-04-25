@@ -21,7 +21,7 @@
                 "seed": 1429397248,
                 "radius": 700,
                 "heightRange": 0,
-                "waterHeight": 70,
+                "waterHeight": 100,
                 "waterDepth": 100,
                 "temperature": 50,
                 "metalDensity": 50,
