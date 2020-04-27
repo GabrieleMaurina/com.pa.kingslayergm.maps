@@ -38,15 +38,15 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 602.27294921875,
                     "op": "BO_Add",
                     "position": [
                         -126.252197265625,
                         -68.845947265625,
                         584.853271484375
                     ],
-                    "height": 602.27294921875,
                     "transform": [
                         6.299399375915527,
                         0.6802293062210083,
@@ -81,21 +81,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 600.6065063476562,
                     "op": "BO_Add",
                     "position": [
                         -471.3555908203125,
                         -292.9088134765625,
                         229.68792724609375
                     ],
-                    "height": 600.6065063476562,
                     "transform": [
                         -0.6092989444732666,
                         -3.9694862365722656,
@@ -130,21 +130,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 600.1497192382812,
                     "op": "BO_Add",
                     "position": [
                         191.5447998046875,
                         -23.08514404296875,
                         -568.2933349609375
                     ],
-                    "height": 600.1497192382812,
                     "transform": [
                         -6.140536308288574,
                         -0.08266568183898926,
@@ -179,21 +179,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 599.382568359375,
                     "op": "BO_Add",
                     "position": [
                         490.6890869140625,
                         -284.9345703125,
                         -193.12161254882812
                     ],
-                    "height": 599.382568359375,
                     "transform": [
                         1.3786742687225342,
                         3.456538438796997,
@@ -228,21 +228,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 598.82763671875,
                     "op": "BO_Add",
                     "position": [
                         507.3768310546875,
                         294.0691223144531,
                         -121.1883544921875
                     ],
-                    "height": 598.82763671875,
                     "transform": [
                         0.9820010662078857,
                         -3.298724889755249,
@@ -277,21 +277,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 598.138916015625,
                     "op": "BO_Add",
                     "position": [
                         -439.4937744140625,
                         325.828369140625,
                         241.7669219970703
                     ],
-                    "height": 598.138916015625,
                     "transform": [
                         -1.0571539402008057,
                         4.26647424697876,
@@ -326,21 +326,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "height": 600.0595092773438,
                     "op": "BO_Add",
                     "position": [
                         -475.4876708984375,
                         -22.22149658203125,
                         -365.361572265625
                     ],
-                    "height": 600.0595092773438,
                     "transform": [
                         -2.7546162605285645,
                         -0.11936253309249878,
@@ -375,21 +375,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "height": 600.3671264648438,
                     "op": "BO_Add",
                     "position": [
                         -91.02197265625,
                         -506.5999755859375,
                         -309.05035400390625
                     ],
-                    "height": 600.3671264648438,
                     "transform": [
                         3.6100707054138184,
                         2.632138252258301,
@@ -424,21 +424,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "height": 602.2574462890625,
                     "op": "BO_Add",
                     "position": [
                         43.933502197265625,
                         -535.336669921875,
                         272.39398193359375
                     ],
-                    "height": 602.2574462890625,
                     "transform": [
                         3.7083592414855957,
                         2.56314754486084,
@@ -473,21 +473,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "height": 600.385009765625,
                     "op": "BO_Add",
                     "position": [
                         511.2196044921875,
                         -90.689453125,
                         301.483154296875
                     ],
-                    "height": 600.385009765625,
                     "transform": [
                         2.3301634788513184,
                         0.4337034821510315,
@@ -522,21 +522,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "height": 600.7387084960938,
                     "op": "BO_Add",
                     "position": [
                         101.81549072265625,
                         420.139892578125,
                         417.13671875
                     ],
-                    "height": 600.7387084960938,
                     "transform": [
                         3.698925495147705,
                         -2.482228994369507,
@@ -571,21 +571,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "height": 596.8892822265625,
                     "op": "BO_Add",
                     "position": [
                         -60.80201721191406,
                         525.313720703125,
                         -276.81298828125
                     ],
-                    "height": 596.8892822265625,
                     "transform": [
                         3.4066123962402344,
                         -2.9348537921905518,
@@ -620,8 +620,8 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 }
@@ -648,46 +648,6 @@
                     -403.589599609375
                 ],
                 [
-                    561.8526611328125,
-                    -17.317092895507812,
-                    -214.13760375976562
-                ],
-                [
-                    564.4000244140625,
-                    25.599929809570312,
-                    -205.25552368164062
-                ],
-                [
-                    572.340087890625,
-                    64.77101135253906,
-                    -171.72372436523438
-                ],
-                [
-                    563.3544921875,
-                    -61.74718475341797,
-                    -202.8833465576172
-                ],
-                [
-                    368.180908203125,
-                    -199.275634765625,
-                    -427.9552001953125
-                ],
-                [
-                    341.9683837890625,
-                    -176.1827392578125,
-                    -459.36029052734375
-                ],
-                [
-                    373.034912109375,
-                    -239.6884765625,
-                    -402.98590087890625
-                ],
-                [
-                    296.1917724609375,
-                    -177.81103515625,
-                    -490.51678466796875
-                ],
-                [
                     -525.859619140625,
                     2.2779598236083984,
                     288.508056640625
@@ -706,26 +666,6 @@
                     -540.2003173828125,
                     -38.9942626953125,
                     258.19915771484375
-                ],
-                [
-                    -349.7603759765625,
-                    -179.517822265625,
-                    454.6678466796875
-                ],
-                [
-                    -378.26361083984375,
-                    -204.92578125,
-                    419.8118896484375
-                ],
-                [
-                    -310.92596435546875,
-                    -178.607177734375,
-                    482.8157958984375
-                ],
-                [
-                    -382.234619140625,
-                    -245.384765625,
-                    393.9620361328125
                 ],
                 [
                     -309.34423828125,
@@ -836,39 +776,99 @@
                     536.14208984375,
                     168.68597412109375,
                     210.07208251953125
+                ],
+                [
+                    393.65240478515625,
+                    -163.98892211914062,
+                    -419.8546142578125
+                ],
+                [
+                    415.7767333984375,
+                    -185.86920166015625,
+                    -388.8082275390625
+                ],
+                [
+                    423.3095703125,
+                    -222.44390869140625,
+                    -361.88702392578125
+                ],
+                [
+                    358.5113525390625,
+                    -156.18130493164062,
+                    -453.39605712890625
+                ],
+                [
+                    563.4602661132812,
+                    -3.023284912109375,
+                    -210.1274871826172
+                ],
+                [
+                    564.9851684570312,
+                    36.45568084716797,
+                    -202.11463928222656
+                ],
+                [
+                    565.8485717773438,
+                    -50.533599853515625,
+                    -198.61715698242188
+                ],
+                [
+                    571.5361938476562,
+                    74.8940200805664,
+                    -169.20364379882812
+                ],
+                [
+                    -356.01763916015625,
+                    -196.24148559570312,
+                    442.8897705078125
+                ],
+                [
+                    -329.03790283203125,
+                    -181.33334350585938,
+                    469.3823547363281
+                ],
+                [
+                    -288.39276123046875,
+                    -183.18374633789062,
+                    495.0776672363281
+                ],
+                [
+                    -369.9703369140625,
+                    -223.2393798828125,
+                    418.1980895996094
                 ]
             ],
             "landing_zones": {
                 "list": [
                     [
-                        -567.131591796875,
-                        37.240966796875,
-                        192.634765625
+                        -562.4251708984375,
+                        22.82171630859375,
+                        207.58599853515625
                     ],
                     [
-                        299.5050048828125,
-                        -268.0552978515625,
-                        -445.09716796875
+                        324.59881591796875,
+                        228.8951416015625,
+                        -446.59619140625
                     ],
                     [
-                        -304.06292724609375,
-                        -267.5087890625,
-                        445.01947021484375
+                        -260.20843505859375,
+                        185.74769592285156,
+                        505.5350341796875
                     ],
                     [
-                        591.05859375,
-                        -16.7984619140625,
-                        -116.97599792480469
+                        588.31298828125,
+                        -1.342315673828125,
+                        -130.3941650390625
                     ],
                     [
-                        -257.58575439453125,
-                        188.18115234375,
-                        505.95166015625
+                        -290.2578125,
+                        -269.62548828125,
+                        452.8990478515625
                     ],
                     [
-                        306.448974609375,
-                        238.053955078125,
-                        -454.82470703125
+                        349.3221435546875,
+                        -247.0252685546875,
+                        -419.647705078125
                     ]
                 ],
                 "rules": [
