@@ -14,6 +14,7 @@ cShareSystems.load_pas("King's Map Pack", [
     "coui://ui/mods/kingslayergm/systems/2v2v2v2_or_4v4_or_8_ffa_or_14_ffa_holes.pas",
     "coui://ui/mods/kingslayergm/systems/2v2v2v2_or_4v4_or_8_ffa_temples.pas",
     "coui://ui/mods/kingslayergm/systems/2v2v2v2_or_4v4_or_8_ffa_waterwar.pas",
+    "coui://ui/mods/kingslayergm/systems/2v2v2v2v2_or_10_ffa_desertstorm.pas",
     "coui://ui/mods/kingslayergm/systems/2v2v2v2v2_or_10_ffa_volcanos.pas",
     "coui://ui/mods/kingslayergm/systems/2v2v2v2v2_planetswar.pas"
 ]);
