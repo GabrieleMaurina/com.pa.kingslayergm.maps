@@ -1,5 +1,5 @@
 {
-    "name": "2v2v2v2v2 PlanetsWar",
+    "name": "1v1v1v1v1 or 2v2v2v2v2 PlanetsWar",
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "5 planets system for interplanetary war, perfect for 5 teams of 2.",
@@ -38,15 +38,15 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
+                    "height": 249.81044006347656,
                     "op": "BO_Subtract",
                     "position": [
                         237.189697265625,
                         -78.37136840820312,
                         -2.05657958984375
                     ],
-                    "height": 249.81044006347656,
                     "transform": [
                         0.09100675582885742,
                         0.3003462553024292,
@@ -81,21 +81,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
+                    "height": 251.34722900390625,
                     "op": "BO_Subtract",
                     "position": [
                         -251.26422119140625,
                         -3.587493896484375,
                         -5.370849609375
                     ],
-                    "height": 251.34722900390625,
                     "transform": [
                         -0.011732053011655807,
                         0.022862043231725693,
@@ -130,8 +130,8 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 }
@@ -273,11 +273,11 @@
                 ],
                 "rules": [
                     {
-                        "min": 0,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 0,
+                        "min": 6,
                         "max": 10
                     }
                 ]
@@ -317,15 +317,15 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
+                    "height": 248.00074768066406,
                     "op": "BO_Subtract",
                     "position": [
                         234.1099853515625,
                         35.428462982177734,
                         -73.76791381835938
                     ],
-                    "height": 248.00074768066406,
                     "transform": [
                         -0.268402099609375,
                         -0.19195052981376648,
@@ -360,21 +360,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
+                    "height": 246.11961364746094,
                     "op": "BO_Subtract",
                     "position": [
                         -238.5869140625,
                         -57.047607421875,
                         -19.917930603027344
                     ],
-                    "height": 246.11961364746094,
                     "transform": [
                         -0.1938212364912033,
                         0.1506931185722351,
@@ -409,8 +409,8 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 }
@@ -552,11 +552,11 @@
                 ],
                 "rules": [
                     {
-                        "min": 0,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 0,
+                        "min": 6,
                         "max": 10
                     }
                 ]
@@ -596,15 +596,15 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
+                    "height": 249.99197387695312,
                     "op": "BO_Subtract",
                     "position": [
                         -18.48580551147461,
                         -36.38008117675781,
                         246.638916015625
                     ],
-                    "height": 249.99197387695312,
                     "transform": [
                         0.997247576713562,
                         -0.005416792817413807,
@@ -639,21 +639,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
+                    "height": 250.1739044189453,
                     "op": "BO_Subtract",
                     "position": [
                         51.963409423828125,
                         108.11624145507812,
                         -219.5396728515625
                     ],
-                    "height": 250.1739044189453,
                     "transform": [
                         -0.016007333993911743,
                         -0.9780596494674683,
@@ -688,8 +688,8 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 }
@@ -831,11 +831,11 @@
                 ],
                 "rules": [
                     {
-                        "min": 0,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 0,
+                        "min": 6,
                         "max": 10
                     }
                 ]
@@ -875,15 +875,15 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
+                    "height": 250.0773162841797,
                     "op": "BO_Subtract",
                     "position": [
                         118.13827514648438,
                         82.32791137695312,
                         -204.4605712890625
                     ],
-                    "height": 250.0773162841797,
                     "transform": [
                         -0.22344017028808594,
                         -0.8525879979133606,
@@ -918,21 +918,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
+                    "height": 248.25839233398438,
                     "op": "BO_Subtract",
                     "position": [
                         -82.77352905273438,
                         -93.07002258300781,
                         214.75274658203125
                     ],
-                    "height": 248.25839233398438,
                     "transform": [
                         0.9403943419456482,
                         -0.0670202299952507,
@@ -967,8 +967,8 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 }
@@ -1110,11 +1110,11 @@
                 ],
                 "rules": [
                     {
-                        "min": 0,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 0,
+                        "min": 6,
                         "max": 10
                     }
                 ]
@@ -1154,15 +1154,15 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
+                    "height": 250.51039123535156,
                     "op": "BO_Subtract",
                     "position": [
                         -83.66500854492188,
                         13.177444458007812,
                         235.75830078125
                     ],
-                    "height": 250.51039123535156,
                     "transform": [
                         0.9425373673439026,
                         0.00905050989240408,
@@ -1197,21 +1197,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
+                    "height": 247.98902893066406,
                     "op": "BO_Subtract",
                     "position": [
                         70.0562744140625,
                         22.1474609375,
                         -236.854736328125
                     ],
-                    "height": 247.98902893066406,
                     "transform": [
                         -0.03514179587364197,
                         0.9586241245269775,
@@ -1246,8 +1246,8 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 }
@@ -1389,11 +1389,11 @@
                 ],
                 "rules": [
                     {
-                        "min": 0,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 0,
+                        "min": 6,
                         "max": 10
                     }
                 ]
