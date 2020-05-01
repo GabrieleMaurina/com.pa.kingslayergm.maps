@@ -3,6 +3,7 @@
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Moon planet with giant craters, very open, perfect for ffa.",
+    "players": [8, 14],
     "planets": [
         {
             "name": "Planet Terribilis",

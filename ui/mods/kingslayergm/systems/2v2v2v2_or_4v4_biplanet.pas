@@ -3,6 +3,7 @@
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "2 planet system, good for mix between planetary and interplanetary war, perfect for 2 teams.",
+    "players": [8, 8],
     "planets": [
         {
             "name": "Samsonite",

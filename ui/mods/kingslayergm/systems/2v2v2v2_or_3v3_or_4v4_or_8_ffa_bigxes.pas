@@ -3,6 +3,7 @@
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Metal planet with big Xes on the surface, perfect for 2 teams of 4.",
+    "players": [6, 8],
     "planets": [
         {
             "name": "Wudgeria",

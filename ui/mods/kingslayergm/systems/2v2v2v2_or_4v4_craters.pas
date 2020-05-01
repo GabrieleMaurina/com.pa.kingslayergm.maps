@@ -3,6 +3,7 @@
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Moon planet, fairly open, perfect for 4 teams.",
+    "players": [8, 8],
     "planets": [
         {
             "name": "GornostaevX1",

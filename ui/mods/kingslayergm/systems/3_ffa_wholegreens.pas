@@ -1,8 +1,9 @@
 {
-    "name": "1v1v1 WholeGreens",
+    "name": "3 FFA WholeGreens",
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Green planet with 3 spawns very close to each other, lots of metsl, perfect for 3 ffa.",
+    "players": [3, 3],
     "planets": [
         {
             "name": "Skwirlnaught",

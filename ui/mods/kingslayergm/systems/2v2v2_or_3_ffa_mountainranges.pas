@@ -1,8 +1,9 @@
 {
-    "name": "1v1v1 or 2v2v2 MountainRanges",
+    "name": "2v2v2 or 3 FFA MountainRanges",
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Desert and planet with mountain ranges and choke points, perfect for 3 teams of 2.",
+    "players": [3, 6],
     "planets": [
         {
             "name": "Atomos",

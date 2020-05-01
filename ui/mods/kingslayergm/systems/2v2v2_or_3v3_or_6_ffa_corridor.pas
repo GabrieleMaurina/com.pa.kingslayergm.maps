@@ -3,6 +3,7 @@
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Very long corridor spanning over the entire planet with lots of choke points, perfect for 6ffa.",
+    "players": [6, 6],
     "planets": [
         {
             "name": "Scandisia",

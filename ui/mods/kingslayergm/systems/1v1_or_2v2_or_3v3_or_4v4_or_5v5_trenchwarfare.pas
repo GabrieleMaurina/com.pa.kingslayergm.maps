@@ -3,6 +3,7 @@
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Desert planet with lots structures to reseble trenches, perfect for 2 teams.",
+    "players": [2, 10],
     "planets": [
         {
             "name": "Excelsior",

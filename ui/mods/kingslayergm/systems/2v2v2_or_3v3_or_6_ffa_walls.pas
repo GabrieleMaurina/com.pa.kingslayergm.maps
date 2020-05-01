@@ -3,6 +3,7 @@
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Symmetric planet with interesting walls separating the players, perfect for 6 ffa.",
+    "players": [6, 6],
     "planets": [
         {
             "name": "Risa",

@@ -1,8 +1,9 @@
 {
-    "name": "1v1v1 or 2v2v2 or 3v3v3 or 9 ffa TriplePlanet",
+    "name": "2v2v2 or 3v3v3 or 3 FFA or 9 FFA TriplePlanet",
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "3 planet system for interplanetary was, perfect for 3 teams.",
+    "players": [3, 9],
     "planets": [
         {
             "name": "Corneria",

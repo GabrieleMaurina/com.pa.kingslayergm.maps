@@ -3,6 +3,7 @@
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Icy and rocky planet with lots of choke points, perfect for 2 teams.",
+    "players": [4, 8],
     "planets": [
         {
             "name": "Motoko",

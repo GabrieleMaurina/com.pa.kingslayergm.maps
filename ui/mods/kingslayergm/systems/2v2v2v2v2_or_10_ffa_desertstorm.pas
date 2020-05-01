@@ -1,8 +1,9 @@
 {
-    "name": "2v2v2v2v2 or 10 ffa DesertStorm",
+    "name": "2v2v2v2v2 or 10 FFA DesertStorm",
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Crowded desert world with lots of metal, perfect for 10 players.",
+    "players": [10, 10],
     "planets": [
         {
             "name": "Bishop",

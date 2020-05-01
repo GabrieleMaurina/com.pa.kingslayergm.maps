@@ -3,6 +3,7 @@
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Lava planet with big volcanos, fairly open, perfect for 5 teams.",
+    "players": [10, 10],
     "planets": [
         {
             "name": "Isaacus IV",

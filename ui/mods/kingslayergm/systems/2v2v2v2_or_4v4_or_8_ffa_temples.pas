@@ -3,6 +3,7 @@
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Awesome metal planet with relict temples, perfect for 4 teams of 2, or 8 ffa.",
+    "players": [8, 8],
     "planets": [
         {
             "name": "Arcindrus",

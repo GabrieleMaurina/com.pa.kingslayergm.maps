@@ -3,6 +3,7 @@
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Flat symmetric planet with lots of choke points, perfect for 6 ffa.",
+    "players": [6, 6],
     "planets": [
         {
             "name": "Aurum",

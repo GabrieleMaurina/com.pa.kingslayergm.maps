@@ -1,8 +1,9 @@
 {
-    "name": "2v2v2v2 or 4v4 or 8 ffa WaterWar",
+    "name": "2v2v2v2 or 4v4 or 8 FFA WaterWar",
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Crowded water world with lots of harbors, perfect for 4 teams of 2.",
+    "players": [8, 8],
     "planets": [
         {
             "name": "Nürtingen",

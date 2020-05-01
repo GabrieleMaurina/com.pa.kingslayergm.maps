@@ -3,6 +3,7 @@
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Desert and rocky planet with lots of choke points, perfect for 2 teams.",
+    "players": [2, 10],
     "planets": [
         {
             "name": "Hironomow",

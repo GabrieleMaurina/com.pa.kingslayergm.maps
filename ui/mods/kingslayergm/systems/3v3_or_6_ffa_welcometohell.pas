@@ -1,8 +1,9 @@
 {
-    "name": "3v3 or 6 ffa WelcomeToHell",
+    "name": "3v3 or 6 FFA WelcomeToHell",
     "creator": "KingSlayerGM",
     "version": "1",
     "description" : "Black inferno planet with abundant metal, perfect for 3v3 or 6 ffa.",
+    "players": [6, 6],
     "planets": [
         {
             "name": "PikKirby",
