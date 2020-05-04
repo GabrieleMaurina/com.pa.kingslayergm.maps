@@ -1,6 +1,6 @@
 cShareSystems.load_pas("King's Map Pack", [
     "coui://ui/mods/kingslayergm/systems/1v1_or_2v2_or_3v3_or_4v4_or_5v5_desertrocks.pas",
-    "coui://ui/mods/kingslayergm/systems/1v1_or_2v2_or_3v3_or_4v4_or_5v5_trenchwarfare.pas",
+    "coui://ui/mods/kingslayergm/systems/1v1_or_2v2_or_3v3_or_4v4_or_5v5_or_6v6_trenchwarfare.pas",
     "coui://ui/mods/kingslayergm/systems/2v2_ or_3v3_or_4v4_waterworld.pas",
     "coui://ui/mods/kingslayergm/systems/2v2_or_3v3_or_4v4_icymountains.pas",
     "coui://ui/mods/kingslayergm/systems/2v2_or_3v3_or_4v4_junglewar.pas",
@@ -18,7 +18,7 @@ cShareSystems.load_pas("King's Map Pack", [
     "coui://ui/mods/kingslayergm/systems/2v2v2v2v2_or_5_ffa_planetswar.pas",
     "coui://ui/mods/kingslayergm/systems/2v2v2v2v2_or_10_ffa_desertstorm.pas",
     "coui://ui/mods/kingslayergm/systems/2v2v2v2v2_or_10_ffa_volcanos.pas",
-    "coui://ui/mods/kingslayergm/systems/2v2v2v2v2v2_or_6v6_or_6_ffa_or_12_ffa_iceworld.pas",
+    "coui://ui/mods/kingslayergm/systems/2v2v2v2v2v2_or_3v3v3v3v3v3_or_6v6_or_9v9_or_6_ffa_or_12_ffa_or_18_ffa_iceworld.pas",
     "coui://ui/mods/kingslayergm/systems/3_ffa_wholegreens.pas",
     "coui://ui/mods/kingslayergm/systems/3v3_or_6_ffa_welcometohell.pas"
 ]);
